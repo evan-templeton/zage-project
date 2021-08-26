@@ -40,6 +40,7 @@
 		B39B2CBE26D05483003184D0 = {
 			isa = PBXGroup;
 			children = (
+				B3E2DD3326D6D18D00491583 /* README.md */,
 				B39B2CC926D05483003184D0 /* MacTextFileSorter */,
 				B39B2CC826D05483003184D0 /* Products */,
 			);
@@ -63,7 +64,6 @@
 				B39B2CD326D05484003184D0 /* Info.plist */,
 				B39B2CD426D05484003184D0 /* MacTextFileSorter.entitlements */,
 				B39B2CDA26D054A0003184D0 /* FilesManager.swift */,
-				B3E2DD3326D6D18D00491583 /* README.md */,
 			);
 			path = MacTextFileSorter;
 			sourceTree = "<group>";
