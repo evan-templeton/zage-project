@@ -9,10 +9,12 @@ import Cocoa
 
 class ViewController: NSViewController {
 
+    let filesManager: FilesManager = FilesManager()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        filesManager.parseFile()
     }
 
     override var representedObject: Any? {
